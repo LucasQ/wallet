@@ -1,0 +1,8 @@
+.contas {
+  display: grid;
+
+}
+
+.contas__setting {
+  color:blue;
+}
